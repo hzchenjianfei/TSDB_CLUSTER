@@ -191,8 +191,4 @@ tsdb: time series database.
 * [4]: 编译版本号一般是编译器在编译过程中自动生成的，我们只定义其格式，并不进行人为控制。
 
 ### 11. Author
-* swordflychen@gmail.com
 * cjfeii@126.com
-
-### 12. TODO
-* todo
